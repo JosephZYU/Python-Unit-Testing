@@ -1,5 +1,8 @@
 import unittest
+import requests
 from unittest.mock import patch
+
+# Import our employee class from our employee moudel at the Root Directory
 from employee import Employee
 
 
